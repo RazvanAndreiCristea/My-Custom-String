@@ -1,0 +1,2 @@
+Aici vedeti o varianta de implementare a clasei String customizate cu metodele aferente, puteti incerca 
+sa supraincarcati operatorul de adunare pentru a concatena doua sau mai multe stringuri intre ele.
