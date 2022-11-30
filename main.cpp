@@ -49,7 +49,6 @@ int main()
 
 	else std::cout << "Sirurile sunt diferite! \n";
 
-	std::cout << "cacat \n";
 
 	return 0;
 }
